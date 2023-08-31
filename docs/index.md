@@ -31,5 +31,16 @@
 ぴよ
 
 
+ほげ[ふが](https://github.com/)ぴよ
 
-![hoge](https://github.com/kamideteshuuto/pages/assets/113404352/7e6eb7a6-e87a-4539-8548-10e1ae5d7e7e)
+docs/index.md から docs/fuga/hoge.md にリンクを貼る場合
+
+
+
+[ほげ](./fuga/hoge.md)
+
+docs/index.md で docs/hoge.png の画像を表示したい場合
+
+
+
+![ほげ](./hoge.png)
